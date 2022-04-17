@@ -1,0 +1,15 @@
+body {
+   background: lightgray;
+}
+
+body h1 {
+    color: #9e057f; //hex-color
+}
+
+body p {
+    margin-left: 50px;
+    border-left: 2px dotted purple;
+    border-bottom: 2px dotted purple;
+}
+
+
